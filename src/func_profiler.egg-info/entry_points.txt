@@ -1,0 +1,3 @@
+[console_scripts]
+funcprofiler = funcprofiler.funcprofiler:main
+funcprofiler_many = funcprofiler_many.funcprofiler_many:main
